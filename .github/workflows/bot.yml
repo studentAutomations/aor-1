@@ -1,4 +1,4 @@
-name: aor-1 runner
+name: aor-1 bot
 
 on:
   schedule:
